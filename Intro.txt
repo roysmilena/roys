@@ -1,0 +1,8 @@
+Print : "Welcome to my project in tools for hacking"
+Print : "Don't forget to happy for always day"
+
+Termux-setup-storage
+
+List Project : apt update && apt upgrade
+
+Exit
