@@ -4,5 +4,10 @@ Print : "Don't forget to happy for always day"
 Termux-setup-storage
 
 List Project : apt update && apt upgrade
+List Project : apt install python && apt install python2
+List Project : apt install php && apt install git && apt install curl
+List Project : apt install nmap &7 apt install hydra
 
-Exit
+Print : "Happy time to hacking for god life"
+
+Thank's for join my "Project" don't let me go-
